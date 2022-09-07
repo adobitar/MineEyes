@@ -1,0 +1,19 @@
+{
+  "name": "mine-eyes",
+  "version": "0.0.0",
+  "description": "MineEyes",
+  "main": "server.js",
+  "author": "",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "dependencies": {
+    "0g": "^0.0.9",
+    "better-sqlite3": "^7.6.2",
+    "express": "^4.18.1",
+    "npm": "^8.14.0",
+    "pug": "^3.0.2"
+  }
+}
